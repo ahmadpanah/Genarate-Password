@@ -1,4 +1,4 @@
-# Genarate-Password
-Genarate Random Password
+# Generate-Password
+Generate Random Password
 
-[(https://raw.githubusercontent.com/ahmadpanah/Genarate-Password/master/pass.jpg)]
+![password](https://raw.githubusercontent.com/ahmadpanah/Generate-Password/master/pass.jpg")
